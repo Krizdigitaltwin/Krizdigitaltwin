@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...python programming
 - 🌱 I’m currently learning ...python and its application to solving energy problems
 - 💞️ I’m looking to collaborate on ...python projects and willing to follow through with the right support
-- 📫 How to reach me ...just a message here would suffice
+- 📫 How to reach me ...just a message here would suffice or westjupter@gmail.com
 
 <!---
 Krizdigitaltwin/Krizdigitaltwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
